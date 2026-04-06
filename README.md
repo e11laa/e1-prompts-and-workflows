@@ -14,8 +14,10 @@
   - [GPT-Researcher](https://github.com/assafelovic/gpt-researcher)
   - [STORM](https://github.com/stanford-oval/storm)
   - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-  
   ※ 実行環境やパース要件に合わせて使い分けられるよう、Markdown形式とXML形式の2種類を用意しています。
+
+- **[`docs/scrapbox/`](./docs/scrapbox/README.md)**
+  Scrapbox プロジェクト ellimissinina の公開ページを GitHub にミラーした同期ノート。詳細は [`docs/scrapbox/README.md`](./docs/scrapbox/README.md) を参照。
 
 ## 目的 (Purpose)
 - 自律的な深掘り調査(Deep Research)の精度向上
