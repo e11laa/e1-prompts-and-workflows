@@ -14,7 +14,6 @@
   - [GPT-Researcher](https://github.com/assafelovic/gpt-researcher)
   - [STORM](https://github.com/stanford-oval/storm)
   - [AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)
-
   ※ 実行環境やパース要件に合わせて使い分けられるよう、Markdown形式とXML形式の2種類を用意しています。
 
 - **[`docs/scrapbox/`](./docs/scrapbox/README.md)**
