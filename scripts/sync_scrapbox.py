@@ -79,7 +79,7 @@ def scrapbox_lines_to_markdown(lines: list) -> str:
         if in_code:
             # Code blocks in Scrapbox are indented lines following the code: line
             if text.startswith("\t") or text.startswith(" "):
-                result.append(text.lstrip("\t").lstrip(" "))
+                result.append(text.lstrip("\t "))
             else:
                 result.append("```")
                 in_code = False
@@ -195,7 +195,7 @@ def main() -> None:
         scrapbox_url = f"https://scrapbox.io/{PROJECT}/{urllib.parse.quote(title, safe='')}"
 
         filename = safe_filename(title, page_id, used_slugs)
-        used_slugs.add(filename.split("-" + page_id)[0] if page_id and filename.endswith(page_id) else filename)
+        used_slugs.add(filename)
 
         content = f"# {title}\n\nSource: {scrapbox_url}\n\n最終同期日: {TODAY}\n\n{body_md}\n"
 
@@ -209,7 +209,7 @@ def main() -> None:
     # Remove stale files no longer in Scrapbox
     current_files = {f"{fn}.md" for _, fn in generated_files}
     for existing in os.listdir(OUTPUT_DIR):
-        if existing.endswith(".md") and existing not in current_files:
+        if existing.endswith(".md") and existing != "README.md" and existing not in current_files:
             os.remove(os.path.join(OUTPUT_DIR, existing))
             print(f"  Removed stale file: {existing}")
 
