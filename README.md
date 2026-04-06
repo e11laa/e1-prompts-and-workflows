@@ -7,7 +7,7 @@
 
 ## 内容 (Contents)
 
-- **`any_ai_deep_research_prompt.md`** / **`.xml`**
+- **[`prompts/any_ai_deep_research_prompt.md`](./prompts/any_ai_deep_research_prompt.md)** / **[`.xml`](./prompts/any_ai_deep_research_prompt.xml)**
   **DeepSeek**をはじめとする、任意のLLMを活用した**Deep Research(深掘り調査)**専用に独自開発したシステムプロンプトです。ブラウザ版の任意のAIのチャット欄に貼り付けて、トピックを最後に追記してから送信するだけで実行できます。
   以下の強力な自律型リサーチAIやエージェントのシステムプロンプトをベースに、統合・最適化を行っています：
   - [OpenManus](https://github.com/mannaandpoem/OpenManus)
