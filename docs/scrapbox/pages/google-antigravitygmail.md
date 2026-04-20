@@ -2,7 +2,7 @@
 
 Source: https://scrapbox.io/ellimissinina/Google%20Antigravity%E3%82%92%E4%BD%BF%E3%81%A3%E3%81%A6Gmail%E3%81%AE%E9%9B%BB%E5%AD%90%E9%A0%98%E5%8F%8E%E6%9B%B8%E3%81%8B%E3%82%89%E5%88%B6%E4%BD%9C%E7%B5%8C%E8%B2%BB%E3%82%92%E5%85%A8%E8%87%AA%E5%8B%95%E9%9B%86%E8%A8%88%E3%81%99%E3%82%8B%E6%96%B9%E6%B3%95
 
-最終同期日: 2026-04-13
+最終同期日: 2026-04-20
 
 Googleの「Antigravity」を活用し、過去の電子領収書データからデータを抽出・計算させる手順を解説します。
 (めんどくさいのでこの記事は結構AI本人に書かせてます。)
