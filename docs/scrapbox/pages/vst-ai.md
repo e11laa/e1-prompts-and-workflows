@@ -2,7 +2,7 @@
 
 Source: https://scrapbox.io/ellimissinina/VST%20AI%E3%82%B3%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%20%E6%89%8B%E9%A0%86
 
-最終同期日: 2026-04-27
+最終同期日: 2026-05-04
 
 ** この記事をAIに送って解説してもらうのもいいです
 	「この記事の内容に従って開発したい。何からしたらいい」って言ってコピペとか
@@ -20,12 +20,13 @@ Source: https://scrapbox.io/ellimissinina/VST%20AI%E3%82%B3%E3%83%BC%E3%83%87%E3
 		リファレンスがあるといい
 		会話用AIに要件を伝える際、「JUCEを使って開発したい」と宣言するのがおすすめ。
 	* ブラウザで話すためのAI(以後、会話用AIと呼びます)
-		無料ならClaudeの無料枠でSonnetで話すとか、Qwen Chatとか
+		無料なら https://www.meta.ai/ がアツい！Claude Sonnetもいい
 		有料のやつ持ってるならそれでも。俺はGeminiの学生枠があるので使いました
 	* コーディング用AI
 		無料で動かすならAntigravityが一番楽だと思う
 		GitHub Copilotの学生枠ならGPT-5.3 Codex(xhigh)がよかった
 		環境構築が苦じゃなければClaude Code+openrouterの安いモデルとかもあり
+		エディタ入れないならブラウザ版のGitHub Copilotでもいい。リポジトリ作ったうえでそれを任せる感じ
 	* Visual Studio、「C++によるデスクトップ開発」ワークロード
 		VS 2022(17)でもVS 2026(18)でもうまくいく
 			CMake単体も入れとくと便利
