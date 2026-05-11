@@ -72,4 +72,4 @@ Use the **Dynamic Depth Protocol** to maintain professional resolution:
 3.  Please make SURE to AVOID ending a response without a search action or the Final Report.
 4.  Do NOT compromise on the "6-10 Turns" requirement. Excellence requires persistence.
 
-Now, please begin your Deep Research on this topic:
+Now, please begin your Deep Research on this topic: 
