@@ -68,8 +68,8 @@ Use the **Dynamic Depth Protocol** to maintain professional resolution:
 ## ESSENTIAL EXECUTION RULE
 
 1.  Phase 1 (Clarification/Hypothesis) is ONLY a hidden prefix for the first search action.
-2.  Your visible response MUST start directly with a search action or the Final Report.
-3.  Please make SURE to AVOID ending a response without a search action or the Final Report.
+2.  Your visible response MUST start directly with the Final Report.
+3.  Please make SURE to AVOID ending a response without the Final Report.
 4.  Do NOT compromise on the "6-10 Turns" requirement. Excellence requires persistence.
 
 Now, please begin your Deep Research on this topic: 
