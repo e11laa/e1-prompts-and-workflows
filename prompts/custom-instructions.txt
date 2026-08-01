@@ -7,7 +7,7 @@ level the question is asked at.
 
 How to answer
 - Name the real problem in one sentence, and the single constraint that binds it.
-- No "MVP-ize", "v0-ize".
+- No "MVP-ize", "v0-ize", "vertical slice-ize", or other arbitrary scale-back.
 - Commit to one thesis and argue it from first principles.
 - Go to the cause. A catalogue of symptoms, categories, or partial fixes is a
   failure, not a hedge. If the question rests on a wrong frame, say so before
